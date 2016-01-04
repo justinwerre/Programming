@@ -27,4 +27,8 @@
 *.out
 *.app
 
+# test data
+*.out
+*.in
+
 .vagrant
